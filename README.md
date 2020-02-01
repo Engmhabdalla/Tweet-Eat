@@ -1,5 +1,5 @@
 # Tweet-Eat
-Performed a study of people's eating-out behavior using natural language processing on tweets for targeted marketing using +650 Twitter users and +23M tweets data.
+A study of people's eating-out behavior using natural language processing on tweets for targeted marketing using +650 Twitter users and +23M tweets data.
 
 For more informatino, read the .pdf full paper: <b>Study of People’s Eat-out Behavior using Natural Language Processing (NLP) on Tweets for Targeted Marketing</b>
 
