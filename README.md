@@ -18,5 +18,9 @@ As of this point, only the _Feature Selection & Prediction Models_ file is share
 
 Read the full paper [here](https://github.com/Engmhabdalla/Tweet-Eat/blob/master/Study%20of%20People%E2%80%99s%20Eat-out%20Behavior%20using%20Natural%20Language%20Processing%20(NLP)%20on%20Tweets%20for%20Targeted%20Marketing.pdf)
 
+## License
+
+It is free software, and may be redistributed under the terms specified in the [LICENSE](https://github.com/Engmhabdalla/Tweet-Eat/blob/master/LICENSE) file.
+
 
 Key Words: **NLP, LIWC, ANN, SVM, RF, KNN, Model tuning, Feature Selection, Mutual Information Studies, Regression, Classification, Python, Jupytor Notebook, ML**
