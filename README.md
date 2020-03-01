@@ -1,6 +1,6 @@
 # Tweet-Eat
 
-A tool that predict the chances that a person will eat at a specific resturant price catogary (cheap, moderate, expensive, very expensive) based on his tweets. The tool was built using natural language processing on tweets using +650 Twitter users and +23M tweets data.
+A tool that predicts the chances that a person will eat at a restaurant with a specific price category (cheap, moderate, expensive, very expensive) based on his tweets. The tool was built using natural language processing on tweets using +650 Twitter users and +23M tweets data.
 
 ## Installation
 
@@ -8,7 +8,8 @@ The project consists of the following files:
 
 * Data Files
 * Data Cleaning & Linguistic Analysis 
-* Labeling (obtaining the visiting frequency for each price catogary)
+* Labeling (obtaining the visiting frequency for each price category)
+* Analysis of Users' Time of Availability on Twitter
 * Feature Selection & Prediction Models
 
 As of this point, only the _Feature Selection & Prediction Models_ file is shared in this repository. To view the file online click [here](https://github.com/Engmhabdalla/Tweet-Eat/blob/master/regression%20and%20classification%20models.ipynb).
