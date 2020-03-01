@@ -1,8 +1,21 @@
 # Tweet-Eat
-A study of people's eating-out behavior using natural language processing on tweets for targeted marketing using +650 Twitter users and +23M tweets data.
 
-For more informatino, read the .pdf full paper: <b>Study of People’s Eat-out Behavior using Natural Language Processing (NLP) on Tweets for Targeted Marketing</b>
+A tool that predict the chances that a person will eat at a specific resturant price catogary (cheap, moderate, expensive, very expensive) based on his tweets. The tool was built using natural language processing on tweets using +650 Twitter users and +23M tweets data.
 
-To check out the models and code, open the .ipynb file: <b> regression and classification models </b> on Jupyter Notebook/ Jupyter lab
+## Installation
 
-Key Words: <b>NLP, LIWC, ANN, SVM, RF, KNN, Model tuning, Feature Selection, Mutual Information Studies, Regression, Classification, Python, Jupytor Notebook, ML<b>
+The project consists of the following files:
+
+* Data Files
+* Data Cleaning & Linguistic Analysis 
+* Labeling (obtaining the visiting frequency for each price catogary)
+* Feature Selection & Prediction Models
+
+As of this point, only the _Feature Selection & Prediction Models_ file is shared in this repository. To view the file online click [here](https://github.com/Engmhabdalla/Tweet-Eat/blob/master/regression%20and%20classification%20models.ipynb).
+
+## For more information
+
+Read the full paper [here](https://github.com/Engmhabdalla/Tweet-Eat/blob/master/Study%20of%20People%E2%80%99s%20Eat-out%20Behavior%20using%20Natural%20Language%20Processing%20(NLP)%20on%20Tweets%20for%20Targeted%20Marketing.pdf)
+
+
+Key Words: **NLP, LIWC, ANN, SVM, RF, KNN, Model tuning, Feature Selection, Mutual Information Studies, Regression, Classification, Python, Jupytor Notebook, ML**
