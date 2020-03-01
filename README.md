@@ -23,4 +23,5 @@ Read the full paper [here](https://github.com/Engmhabdalla/Tweet-Eat/blob/master
 It is free software, and may be redistributed under the terms specified in the [LICENSE](https://github.com/Engmhabdalla/Tweet-Eat/blob/master/LICENSE) file.
 
 
-Key Words: **NLP, LIWC, ANN, SVM, RF, KNN, Model tuning, Feature Selection, Mutual Information Studies, Regression, Classification, Python, Jupytor Notebook, ML**
+## Key Words
+**NLP, LIWC, ANN, SVM, RF, KNN, Model Tuning, Feature Selection, Mutual Information Studies, Regression, Classification, Python, Jupytor Notebook, ML**
