@@ -1,4 +1,4 @@
-# Tweet-Eat
+# Tweet & Eat
 
 A tool that predicts the chances that a person will eat at a restaurant with a specific price category (cheap, moderate, expensive, very expensive) based on his tweets. The tool was built using natural language processing on tweets using +650 Twitter users and +23M tweets data.
 
