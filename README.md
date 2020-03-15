@@ -1,6 +1,14 @@
 # Tweet & Eat
 
-A tool that predicts the chances that a person will eat at a restaurant with a specific price category (cheap, moderate, expensive, very expensive) based on their tweets. The tool was built using natural language processing on tweets using +650 Twitter users and +23M tweets data.
+A tool that predicts the chances that a person will eat at a restaurant with a specific price category (cheap, moderate, expensive, very expensive) based on their tweets. The tool was built using **natural language processing (NLP)** on tweets using **+650** Twitter users and **+23M** tweets data.
+
+
+## Some intentersting facts that were found using **Mutal Information** studies for **feature selections**:
+
+The frequency of _air travel_ terms in tweets is a major indicator of whether the person is a more than average vistor to cheap resturnats with a high probability.
+
+On the other hand, the frequency of of _affection_ terms in tweets indicate whether the person is a more than average vistor to very expensive resturants! 
+
 
 ## Installation
 
